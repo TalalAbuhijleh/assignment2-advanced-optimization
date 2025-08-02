@@ -8,8 +8,6 @@
 %   • pso_fitness.csv
 % and prints the best solution and fitness for each method.
 %
-% Author : <Your Name>
-% Date   : 2025-08-02
 % ------------------------------------------------------------
 
 clear; clc;
